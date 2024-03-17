@@ -10,15 +10,9 @@ Bu proje, dünya genelindeki en son depremlerin bir listesini gösteren basit bi
 
 npm install
 
-css
-Copy code
-
 4. Bağımlılıklar yüklendikten sonra aşağıdaki komutu çalıştırarak uygulamayı başlatın:
 
 npm start
-
-markdown
-Copy code
 
 5. Tarayıcınızda `http://localhost:3000` adresine gidin. Uygulama burada çalışıyor olmalıdır.
 
