@@ -33,8 +33,4 @@ Eğer bu projeye katkıda bulunmak isterseniz, lütfen bir issue açın veya bir
 
 ## Lisans
 
-<<<<<<< HEAD
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
-=======
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
->>>>>>> 29841ccac57a2b077ddea073e8a28a6d0faacc28
